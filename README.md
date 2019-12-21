@@ -1,5 +1,5 @@
 # CUDA_Programming
-CUDA Programming
+Some of the basics of CUDA programming and related concepts.
 
 ### Requirements:
 1. GPU enabled CPU to learn.  
