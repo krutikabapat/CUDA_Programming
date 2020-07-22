@@ -12,3 +12,7 @@ Some of the basics of CUDA programming and related concepts.
 ![Screenshot](Diff.png)
 
 
+### References:    
+
+1. https://www.tutorialspoint.com/cuda/index.htm    
+2. https://www.nvidia.com/docs/IO/116711/sc11-cuda-c-basics.pdf    
